@@ -1,11 +1,11 @@
 # AIfred: An AI-Driven Multi-Agent Chat System
 ## Team Members
-| Name | Email |
-|------|-------|
-| Jun Seong Pyo | standardstar@hanyang.ac.kr |
-| Hye Jin Bae | cats5565@hanyang.ac.kr |
-| Byeong Hyun Yang | zxvm5962@hanyang.ac.kr |
-| Dong Hun Kang | kdu3840@hanyang.ac.kr |
+| Name | Organization | Email |
+|------|-------|-------|
+| Jun Seong Pyo | College of Engineering / Hanyang University / Dept. of Information Systems | standardstar@hanyang.ac.kr |
+| Hye Jin Bae | College of Engineering / Hanyang University / Dept. of Information Systems| cats5565@hanyang.ac.kr |
+| Byeong Hyun Yang | College of Engineering / Hanyang University / Dept. of Information Systems| zxvm5962@hanyang.ac.kr |
+| Dong Hun Kang | College of Engineering / Hanyang University / Dept. of Information Systems| kdu3840@hanyang.ac.kr |
 
 ## Research Idea
 **Title** <br/>
