@@ -2,10 +2,10 @@
 ## Team Members
 | Name | Organization | Email |
 |------|-------|-------|
-| Jun Seong Pyo | College of Engineering / Hanyang University / Dept. of Information Systems | standardstar@hanyang.ac.kr |
-| Hye Jin Bae | College of Engineering / Hanyang University / Dept. of Information Systems| cats5565@hanyang.ac.kr |
-| Byeong Hyun Yang | College of Engineering / Hanyang University / Dept. of Information Systems| zxvm5962@hanyang.ac.kr |
-| Dong Hun Kang | College of Engineering / Hanyang University / Dept. of Information Systems| kdu3840@hanyang.ac.kr |
+| Jun Seong Pyo | Department of Information Systems, College of Engineering, Hanyang University | standardstar@hanyang.ac.kr |
+| Hye Jin Bae | Department of Information Systems, College of Engineering, Hanyang University | cats5565@hanyang.ac.kr |
+| Byeong Hyun Yang | Department of Information Systems, College of Engineering, Hanyang University | zxvm5962@hanyang.ac.kr |
+| Dong Hun Kang | Department of Information Systems, College of Engineering, Hanyang University | kdu3840@hanyang.ac.kr |
 
 ## Research Idea
 **Title** <br/>
