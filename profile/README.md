@@ -7,6 +7,8 @@
 | Byeong Hyun Yang | Department of Information Systems, College of Engineering, Hanyang University | zxvm5962@hanyang.ac.kr |
 | Dong Hun Kang | Department of Information Systems, College of Engineering, Hanyang University | kdu3840@hanyang.ac.kr |
 
+https://github.com/SWE-MACS
+
 ## Research Idea
 **Title** <br/>
 MACS: An AI-Driven Multi-Agent Chat System
