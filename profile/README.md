@@ -42,7 +42,8 @@ We propose ALIVE, an innovative smart home management application that addresses
 
 ## Architecture
 
-TBD
+![SWE drawio-수정 drawio](https://github.com/user-attachments/assets/163b1970-9e52-4d17-9e5c-024fe42a8212)
+
 
 ## 👥 Team Members
 
@@ -94,7 +95,8 @@ TBD
 
 ## 아키텍처
 
-TBD
+![SWE drawio-수정 drawio](https://github.com/user-attachments/assets/163b1970-9e52-4d17-9e5c-024fe42a8212)
+
 
 ## 👥 팀 구성원
 
