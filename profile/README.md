@@ -102,7 +102,7 @@ TBD
 
 | 이름 | 소속 | 연락처 |
 |------|------|--------|
-| 전성표 | 한양대학교 정보시스템학과 | standardstar@hanyang.ac.kr |
+| 표준성 | 한양대학교 정보시스템학과 | standardstar@hanyang.ac.kr |
 | 배혜진 | 한양대학교 정보시스템학과 | cats5565@hanyang.ac.kr |
 | 양병현 | 한양대학교 정보시스템학과 | zxvm5962@hanyang.ac.kr |
 | 강동훈 | 한양대학교 정보시스템학과 | kdu3840@hanyang.ac.kr |
