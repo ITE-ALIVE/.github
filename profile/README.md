@@ -6,10 +6,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-SWE--ALIVE-blue?style=flat-square&logo=github)](https://github.com/SWE-ALIVE)
 
 A smart home management system powered by AI-driven natural language conversations
-<div align="center">
-<img src="https://github.com/user-attachments/assets/6dc88af4-fbd4-4c85-8271-299cb83455ee" width="200" height="400"/> 
-  <img src="https://github.com/user-attachments/assets/cc7d1f07-b442-4453-ab53-2881e12a88a3" height="400" alt="ALIVE Chat Interface"/>
-</div>
+![Frame 5049](https://github.com/user-attachments/assets/397ce825-0f39-495e-ba03-d05dd81cdd6d)
+
 
 [한국어](#korean) | [English](#english)
 
