@@ -52,7 +52,6 @@ The core technology of ALIVE is an AI-based chat system powered by Large Languag
 ##  🔧 Architecture
 
 ![image](https://github.com/user-attachments/assets/2d100193-754d-4ee1-9f85-644d2a3b3d5a)<br/>
-<br/>
 
 ## 👥 Team Members
 
@@ -109,8 +108,7 @@ ALIVE의 핵심은 대규모 언어 모델(LLM)을 활용한 AI 기반 채팅 �
 <br/><br/>
 ## 🔧 아키텍처
 
-![KakaoTalk_Photo_2024-12-05-13-06-47](https://github.com/user-attachments/assets/8adf1d44-2c7b-44a7-841b-88ec362e51ad)
-<br/><br/>
+![image](https://github.com/user-attachments/assets/2d100193-754d-4ee1-9f85-644d2a3b3d5a)<br/><br/>
 
 ## 👥 팀 구성원
 
