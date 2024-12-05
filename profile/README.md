@@ -5,6 +5,8 @@
 
 <br/>
 please click below link to see detailed project
+<br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-SWE--ALIVE-blue?style=flat-square&logo=github)](https://github.com/SWE-ALIVE)
 
 A smart home management system powered by AI-driven natural language conversations
