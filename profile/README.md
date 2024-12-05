@@ -3,6 +3,8 @@
 
 # 🏠 ALIVE: AI-Driven Multi-Agent Chat System
 
+<br/>
+please click below link to see detailed project
 [![GitHub](https://img.shields.io/badge/GitHub-SWE--ALIVE-blue?style=flat-square&logo=github)](https://github.com/SWE-ALIVE)
 
 A smart home management system powered by AI-driven natural language conversations
