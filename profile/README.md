@@ -1,7 +1,8 @@
 
 <div align="center">
 
-# 🏠 ALIVE: AI-Driven Multi-Agent Chat System
+# 🏠 ALIVE: AI-Driven Chat System
+: Appliances are ALIVE
 
 <br/>
 
