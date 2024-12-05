@@ -34,7 +34,7 @@ ALIVE is a smart home solution that allows users to control appliances through c
 <br/>
 
 ## ✔️ Proposal
-ALIVE is a service that controls smart homes through a conversational interface. This application, developed by our team, enables users to control their home appliances as naturally as chatting with an intelligent assistant. Users can register devices directly or import them from compatible apps to create personalized chat rooms, allowing them to build a customized smart home environment.
+ALIVE is a service that controls smart homes through a conversational interface. This enables users to control their home appliances as naturally as chatting with an intelligent assistant. Users can register devices directly or import them from compatible apps to create personalized chat rooms, allowing them to build a customized smart home environment.
 
 The core technology of ALIVE is an AI-based chat system powered by Large Language Models (LLM). This system accurately interprets natural language commands from users and tracks conversation context to determine the most appropriate device control solutions. Through dialogue state tracking technology, it precisely understands user intentions and develops optimized execution plans, providing a more intuitive and efficient smart home experience. Through the combination of AI-based control systems and user-friendly interfaces, ALIVE realizes a more adaptive and personalized smart home solution.
 <br/>
