@@ -32,15 +32,14 @@ We propose ALIVE, an innovative smart home management application that addresses
 ## Key Features
 
 - Natural language control of home appliances
-- Multi-agent chat system for device management
+- LLM based (IC-DST) chat system for device management
 - Custom chatrooms for different device groups
 - AI-powered device coordination
-- User pattern analysis for proactive automation
 - Complex scenario handling
 
 ## Architecture
 
-![SWE drawio-수정 drawio](https://github.com/user-attachments/assets/163b1970-9e52-4d17-9e5c-024fe42a8212)
+![KakaoTalk_Photo_2024-12-05-13-06-47](https://github.com/user-attachments/assets/8adf1d44-2c7b-44a7-841b-88ec362e51ad)
 
 
 ## 👥 Team Members
@@ -85,15 +84,14 @@ TBD
 ## 주요 기능
 
 - 자연어를 통한 가전제품 제어
-- 기기 관리를 위한 멀티 에이전트 채팅 시스템
+- 기기 관리를 위한 LLM 기반의 채팅 시스템
 - 기기 그룹별 맞춤형 채팅방
 - AI 기반 기기 조율
-- 사용자 패턴 분석을 통한 능동적 자동화
 - 복잡한 시나리오 처리
 
 ## 아키텍처
 
-![SWE drawio-수정 drawio](https://github.com/user-attachments/assets/163b1970-9e52-4d17-9e5c-024fe42a8212)
+![KakaoTalk_Photo_2024-12-05-13-06-47](https://github.com/user-attachments/assets/8adf1d44-2c7b-44a7-841b-88ec362e51ad)
 
 
 ## 👥 팀 구성원
