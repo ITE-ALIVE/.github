@@ -1,8 +1,8 @@
 
 <div align="center">
 
-# 🏠 ALIVE: AI-Driven Chat System
-: Appliances are ALIVE
+# 🏠 ALIVE: ALIVE: AI-driven multi-chat system for Intuitive Smart Home Management
+Appliances are **ALIVE**
 
 <br/>
 
@@ -22,8 +22,7 @@ A smart home management system powered by AI-driven natural language conversatio
 
 ## 🌟 Overview
 
-ALIVE is a chatroom interface-based service that enables control of home appliances through natural language conversation. It understands users’ utterances and activates the most appropriate appliances for each situation. Additionally, it proactives device operations based on analysis of users’ regular patterns.
-<br/>
+ALIVE is a smart home solution that allows users to control appliances through conversation. When users make natural language queries, the system analyzes them to execute the most appropriate appliance actions. ALIVE leverages dialogue state tracking technology to understand the context and user intent, providing a more intuitive and personalized smart home experience.<br/>
 <br/>
 ## 🎥 Demo Video
 
