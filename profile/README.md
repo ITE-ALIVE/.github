@@ -26,12 +26,12 @@ ALIVE is a smart home solution that allows users to control appliances through c
 <br/>
 ## 🎥 Demo Video
 
-[🔗 Click below Image 👇 🔗](https://www.youtube.com/watch?v=ayG-c1g9_0M)
+[🔗 Click below Image 👇 🔗](https://youtu.be/qRJ9v7GVWLA)
 <br/>
-<a href="https://www.youtube.com/watch?v=ayG-c1g9_0M">
+<a href="https://youtu.be/qRJ9v7GVWLA">
 ![KakaoTalk_Photo_2024-12-03-23-17-46 1](https://github.com/user-attachments/assets/29976e9a-efa9-468c-a588-56b2a9670923)
 </a>
-<br/>
+<br/><br/>
 
 ## ✔️ Proposal
 We propose AI-driven multi-chat system, ALIVE. ALIVE is a smart home solution that allows users to control appliances through everyday conversation. Users can register appliances and create chat rooms, allowing them to build a customized smart home environment. In chat rooms, users can freely communicate with their desired appliances using various interaction methods - from direct commands to indirect expressions, and even control multiple devices simultaneously.
@@ -88,12 +88,11 @@ ALIVE는 대화로 가전제품을 제어할 수 있는 스마트홈 솔루션�
   <br/><br/>
 ## 🎥 데모 영상
 
-[🔗 아래 시연영상 클릭 👇 🔗](https://www.youtube.com/watch?v=ayG-c1g9_0M)
+[🔗 Click below Image 👇 🔗](https://youtu.be/qRJ9v7GVWLA)
 <br/>
-<a href="https://www.youtube.com/watch?v=ayG-c1g9_0M">
+<a href="https://youtu.be/qRJ9v7GVWLA">
 ![KakaoTalk_Photo_2024-12-03-23-17-46 1](https://github.com/user-attachments/assets/29976e9a-efa9-468c-a588-56b2a9670923)
 </a>
-<br/>
 <br/><br/>
 ## ✔️ 제안
 AI 기반 멀티 채팅 시스템 ALIVE를 제안합니다. ALIVE는 사용자가 일상적인 대화를 통해 가전제품을 제어할 수 있는 스마트홈 솔루션입니다. 사용자는 가전제품을 등록하고 채팅방을 생성하여 자신만의 스마트홈 환경을 구축할 수 있습니다. 채팅방에서는 원하는 가전제품과 자유롭게 대화할 수 있으며, 직접적인 명령어부터 간접적인 표현, 여러 기기에 대한 동시 제어까지 다양한 방식의 소통이 가능합니다.
